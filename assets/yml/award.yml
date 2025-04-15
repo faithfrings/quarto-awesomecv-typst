@@ -1,8 +1,10 @@
-nobel-prize:
-  title: Nobel Prize in Physics
-  location: Stockholm, Sweden
-  date: 1921
-  description: For his services to
-  details:
-    - Theoritical Physics
-    - Discovery of the law of the photoelectric effect
+STAF:
+  title: Student Teacher Award Fellowship (STAF)
+  location: Durham, NH
+  date: 2025
+  description: Summer teaching fellowship for graduate students at the University of New Hampshire to support research during summer 2025
+BW:
+  title: Bill Woods Poster Award SABER
+  location: Minneapolis, MN
+  date: 2024
+  description: $500 awarded for graduate poster at the annual Society for the Advancement of Biology Education Research (SABER) meeting. 

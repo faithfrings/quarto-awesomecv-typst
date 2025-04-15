@@ -1,29 +1,31 @@
 ---
-title: "Albert Einstein's CV"
+title: "Faith Frings's CV"
 author:
-  firstname: Albert
-  lastname: Einstein
-  address: "Rämistrasse 101, CH-8092 Zürich, Switzerland, Zürich"
-  position: "Research Physicist ・ Professor"
+  firstname: Faith 
+  lastname: Frings
+  address: "University of New Hampshire"
+  position: "PhD Candidate"
   contacts:
     - icon: fa envelope
-      text: ae@example.com
-      url: "mailto:ae@example.com"
-    - icon: assets/icon/bi-house-fill.svg
-      text: example.com
-      url: https://example.com
+      text: faithfrings@gmail.com
+      url: "mailto:faithfrings@gmal.com"
     - icon: fa brands orcid
-      text: 0000-0000-0000-0000
+      text: +1 813-470-9849
       url: https://orcid.org/0000-0000-0000-0000
     - icon: fa brands github
-      text: GitHub
+      text: faithfrings
       url: https://github.com/example
     - icon: fa brands linkedin
-      text: LinkedIn
+      text: faithfrings
       url: https://linkedin.com/in/example
     - icon: fa brands x-twitter
-      text: twitter
-      url: https://twitter.com/example
+      text: faith_frings
+      url: https://twitter.com/faith_frings
+style:
+   color-accent: "180579"
+   font-header: "Roboto"
+   font-text: "Source Sans Pro"
+profile-photo: "img/FaithFrings_headshot.jpg"
 format: awesomecv-typst
 ---
 
@@ -32,14 +34,14 @@ format: awesomecv-typst
 
 {{< yaml assets/yml/education.yml >}}
 
+## Research Experience
+
+{{< yaml assets/yml/work.yml >}}
+
 ## Publications
 
 {{< yaml assets/yml/publication.yml >}}
 
-
-## Work Experience
-
-{{< yaml assets/yml/work.yml >}}
 
 ## Awards
 

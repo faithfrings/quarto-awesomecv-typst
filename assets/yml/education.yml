@@ -1,10 +1,15 @@
 phd:
-  title: Ph.D. in Physics
-  location: Zürich, Switzerland
-  date: 1905
-  description: University of Zürich
+  title: Ph.D. in Integrative Biology 
+  location: Durham, NH
+  date: 2022 - present
+  description: University of New Hampshire
 master:
-  title: Master of Science
-  location: Zürich, Switzerland
-  date: 1896 - 1900
-  description: ETH
+  title: Master of Science in Biology 
+  location: Tampa, FL
+  date: 2020 - 2022
+  description: Univeristy of South Florida 
+bachelor:
+  title: Bachelor of Science in Marine Biology  
+  location: Tampa, FL
+  date: 2017 - 2020
+  description: Univeristy of South Florida 
