@@ -1,19 +1,45 @@
-unh_ra:
-  title: Graduate Research Assistant
+unh_ta_ds:
+  title: Graduate Teaching Assistant
   location: Durham, NH
-  date: Jan. 2024 - May 2024
-  description: Quantitative Maine Ecology Lab - University of New Hampshire
+  date: Aug. - Dec. 2023, 2024
+  description: Data Science for Life Sciences - University of New Hampshire
   details:
-    - Created teaching materials for introductory and intermediate level R lectures
-    - Taught lectures and led office for an R Users Group course for graduate students and faculty
-    - Assisted with recruitment for a data science training program
-usf_ra:
-  title: Graduate Research Assistant
+    - "Taught data science topics for data wrangling, visualizations, analysis and science communication"
+    - "R in RStudio and Quarto"
+    - "GitHub and Git"
+    - "Terminal"
+    
+unh_ta_stats:
+  title: Graduate Teaching Assistant
+  location: Durham, NH
+  date:  Jan. - May 2023, 2025
+  description: Applied Biostatistics I - University of New Hampshire
+  details:
+    - "Taught weekly recitation on introductory statistics concepts in life sciences contexts"
+
+unh_ta_bio412:
+  title: Graduate Teaching Assistant
+  location: Durham, NH
+  date: Aug. 2022 - Dec. 2022
+  description: Biology 412 Laboratory - University of New Hampsire
+  details:
+    - "Presented curriculum on topics including ecology, evolution, and biodiversity, Taught lab techniques (e.g., microscopy) and fieldwork techniques (e.g., organism ID)."
+    
+usf_ta_bio11:
+  title: Graduate Teaching Assistant
   location: Tampa, FL
-  date: May 2022 - Aug 2022
-  description: Biology Education Research Lab at University of South Florida
-usf_ra:
-  title: Undergraduate Research Assistant
-  location: Tampa, FL
-  date: 2019 - 2020
-  description: Biology Education Research Lab at University of South Florida
+  date: Aug. 2021 - May 2022
+  description: Biology II (Diversity) Laboratory - University of South Florida
+  details:
+    - "Modified and presented curriculum on topics including biodiversity, phylogeny, and evolution, Taught lab techniques pertaining to dissections and microscopy."
+    
+rbysea_japan:
+  title:  Graduate Teaching Assistant
+  location: Sendai, Japan
+  date: Jan 20 - 25 2025
+  description: R by the Sea (Japan) Workshop - Tohoku University
+  details:
+    - "Assisted instructors with workshop logistics"
+    - "Taught introductory R and statistics for biology graduate students on English, Arabic, and Japanese computers"
+    
+    

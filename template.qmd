@@ -38,6 +38,10 @@ format: awesomecv-typst
 
 {{< yaml assets/yml/work.yml >}}
 
+## Teaching Experience
+
+{{< yaml assets/yml/teaching.yml >}}
+
 ## Publications
 
 {{< yaml assets/yml/publication.yml >}}
@@ -46,6 +50,10 @@ format: awesomecv-typst
 ## Awards
 
 {{< yaml assets/yml/award.yml >}}
+
+## Grants
+
+{{< yaml assets/yml/grant.yml >}}
 
 ## Skills
 

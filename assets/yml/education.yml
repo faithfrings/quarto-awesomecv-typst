@@ -7,7 +7,9 @@ master:
   title: Master of Science in Biology 
   location: Tampa, FL
   date: 2020 - 2022
-  description: Univeristy of South Florida 
+  description: Univeristy of South Florida
+  details: 
+    - "Concentation in Ecology & Evolution"
 bachelor:
   title: Bachelor of Science in Marine Biology  
   location: Tampa, FL
